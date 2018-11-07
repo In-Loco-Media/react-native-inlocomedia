@@ -1,6 +1,6 @@
 
 #import "RNInLocoMedia.h"
-#import <InLocoMediaSDKAds/ILMInLocoMedia.h>
+@import InLocoMediaSDKAds;
 
 @implementation RNInLocoMedia
 
