@@ -1,4 +1,4 @@
-package com.inlocomedia.reactnative;
+package com.inlocomedia.reactnative.ads;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;

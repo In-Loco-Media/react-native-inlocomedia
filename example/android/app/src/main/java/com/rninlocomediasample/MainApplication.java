@@ -3,7 +3,7 @@ package com.rninlocomediasample;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
-import com.inlocomedia.reactnative.RNInLocoMediaPackage;
+import com.inlocomedia.reactnative.ads.RNInLocoMediaPackage;
 import com.sbugert.rnadmob.RNAdMobPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;

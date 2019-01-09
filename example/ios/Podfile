@@ -7,7 +7,7 @@ target 'RNInLocoMediaSample' do
 
   # Pods for RNInLocoMediaSample
 
-  pod 'InLocoMedia-iOS-SDK', '~> 4.2.0'
+  pod 'InLocoMedia-iOS-SDK', '~> 4.3.0'
   pod 'InLocoMedia-iOS-AdMob-Mediation','~> 4.0.0'
   pod 'Google-Mobile-Ads-SDK'
 

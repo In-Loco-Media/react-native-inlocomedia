@@ -1,3 +1,8 @@
+Release 3.0.1
+===
+- Update In Loco Media SDK to version 4.3
+- Change package name
+
 Release 2.0.0
 ===
 - Update In Loco Media SDK to version 4.2

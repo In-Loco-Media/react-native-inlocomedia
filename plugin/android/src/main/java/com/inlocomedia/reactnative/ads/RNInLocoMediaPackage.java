@@ -1,4 +1,4 @@
-package com.inlocomedia.reactnative;
+package com.inlocomedia.reactnative.ads;
 
 import java.util.Arrays;
 import java.util.Collections;

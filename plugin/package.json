@@ -1,6 +1,6 @@
 {
   "name": "react-native-inlocomedia",
-  "version": "2.0.0",
+  "version": "3.0.1",
   "description": "InLocoMedia module for React Native",
   "main": "index.js",
   "scripts": {
