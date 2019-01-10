@@ -1,3 +1,7 @@
+Release 3.0.2
+===
+- Fix SDK version
+
 Release 3.0.1
 ===
 - Update In Loco Media SDK to version 4.3
